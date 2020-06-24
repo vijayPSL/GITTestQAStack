@@ -1,6 +1,10 @@
 change to fix bug 1 branch 1
+<<<<<<< HEAD
 
 
 
 
 in master change
+=======
+BUg 2 on branch Bug2
+>>>>>>> Bug2
